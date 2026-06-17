@@ -1,0 +1,8 @@
+{
+    "links": [
+        {
+            "href": "https://sso.pinpointventures.net/application/o/happypanda/",
+            "rel": "http://openid.net/specs/connect/1.0/issuer"
+        }
+    ],
+    "subject": "acct:it@pinpointventures.net"
